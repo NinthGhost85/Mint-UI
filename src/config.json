@@ -32,8 +32,7 @@
             ]
         },
         {
-            "name":"public",
-             "allowlist":[]
+            "name":"public"
         }
     ]
 }
