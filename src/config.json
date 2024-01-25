@@ -8,17 +8,12 @@
     "network":"pacific-1", 
     "collection_address":"sei169v97zss53ttresg79259er90e5894jhyf4rk2p0js4l4z45q3nst9uca5", 
     "nft_name_type": "TEST",
-    "name":"O",
-    "allowlist":[
-                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
-            ],
     "groups":[
         {
-            "name":"VIP",
+            "name":"O",
             "allowlist":[
-                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v",
-                "sei1nk0k2x3p2kph0ctgadlhw6csldfe8ksalex28c"
-            ] 
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
+            ],
         },
         {
             "name":"public",
