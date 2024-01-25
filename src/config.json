@@ -19,13 +19,22 @@
         {
             "name":"VIP",
             "allowlist":[
-                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v",
+                "sei1nk0k2x3p2kph0ctgadlhw6csldfe8ksalex28c"
+            ]
+        },
+        {
+            "name":"OG",
+            "allowlist":[
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v",
+                "sei1sn7nl7472v4yguxquyhjpt47xzc6kv02cmcuu9"
             ]
         },
         {
             "name":"WL",
             "allowlist":[
-                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v",
+                "sei1khpykwmrj9p2da2hafke0danzcuhduaarnyn3t"
             ]
         },
         {
