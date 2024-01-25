@@ -6,11 +6,23 @@
     "discord":"",
     "rpc":"https://rpc.sei-apis.com/",
     "network":"pacific-1", 
-    "collection_address":"sei169v97zss53ttresg79259er90e5894jhyf4rk2p0js4l4z45q3nst9uca5", 
+    "collection_address":"sei12qjcj6l9v0dx73mxyq4trn8gk8pgvd29s675ey8dt9cu005z30vqucqvnz", 
     "nft_name_type": "TEST",
     "groups":[
         {
-            "name":"O",
+            "name":"Team",
+            "allowlist":[
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
+            ]
+        },
+        {
+            "name":"VIP",
+            "allowlist":[
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
+            ]
+        },
+        {
+            "name":"WL",
             "allowlist":[
                 "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
             ]
