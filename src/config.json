@@ -6,7 +6,7 @@
     "discord":"",
     "rpc":"https://rpc.sei-apis.com/",
     "network":"pacific-1", 
-    "collection_address":"sei1pke2sqv4h368fmvd7f7h92gy6uj8yzq04pzxj2cscyl9z7jf25hqxd46dv", 
+    "collection_address":"sei19p9e8mjtc4d8gdmhmv3sq9578fexnggh2p86t0c9fqa5u5tn6kdsyrsyvq", 
     "nft_name_type": "default",
     "groups":[
         {
