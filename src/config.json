@@ -1,10 +1,11 @@
 {
-    "name":"TestProject",
-    "description":"TestProject",
+    "name":"Spookies",
+    "description":"Spookies the cross-chain Play-to-Earn Web3 Game.
+                   First 1680 Spookies to haunt the SEI blockchain.",
     "website":"",
     "twitter":"",
     "discord":"",
-    "rpc":"https://rpc.sei-apis.com/",
+    "rpc":"https://rpc.ankr.com/sei/7a6a0681ce9b4adb2d448317c553b1209f20a76d443a84f86f83fcc003523d1e",
     "network":"pacific-1", 
     "collection_address":"sei1q65glv8q6k5ta370qttxmkh8jj8trlnwkfy897wdmg48ynxwx6ts0f9hpg", 
     "nft_name_type": "default",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name":"public"
+            "name":"Public"
         }
     ]
 }
