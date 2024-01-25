@@ -10,6 +10,12 @@
     "nft_name_type": "TEST",
     "groups":[
         {
+            "name":"O",
+            "allowlist":[
+                "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v"
+            ] 
+        },
+        {
             "name":"VIP",
             "allowlist":[
                 "sei1rd45ct4afq27u8kaudxcd3nzcglz0ktkhrd88v",
@@ -17,7 +23,8 @@
             ] 
         },
         {
-            "name":"public"
+            "name":"public",
+             "allowlist":[]
         }
     ]
 }
