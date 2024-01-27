@@ -420,8 +420,9 @@
         },
         {
             "name":"WL",
-            "allowlist":[
-                "sei18v6aqre3p60ky8j0jmwqwnx9zsed06hcsrr42l",
+            "allowlist":
+[
+  "sei18v6aqre3p60ky8j0jmwqwnx9zsed06hcsrr42l",
   "sei1wk59gwzh2agczdjwzmnmqmva7s4qd92dn4npdc",
   "sei1m6cw80swqh525wf56atxjjr2dkfks7fkdkkdmc",
   "sei1yu3lsj26adn3gahppzdkadk0hnd3xzqydae6de",
@@ -1985,9 +1986,27 @@
   "sei1vyu36gmvypz0n4sxnm30g6cvhjgp3askpdm6fu",
   "sei127wq80yhjntl42w6pcnkjg5p63hpun3r5huw5u",
   "sei1k5f5cathkkc5ffujzec0zr2x2kgn5l24re0dpa",
-  "sei1qd0td2gntu9rudazjy2wr7z7sdudasjp4c6a74"
-
-            ]
+  "sei1qd0td2gntu9rudazjy2wr7z7sdudasjp4c6a74",
+  "sei14lctzu7wx63aeng25ykzusnrq5ujr5nlwwrh4a",
+  "sei156kurjdpv8hgqttzmd4py8uhs6p0hq0jwl5mrv",
+  "sei1uz38qqa0vdf42ppf8zg3rt5wvtymx6sg8w23l3",
+  "sei1n3aqqsqhd3um596702yckvpx4evt66p49s99rm",
+  "sei1mtdg7lcsf0s0j7hekatd6glhkgxedfj5vkafwm",
+  "sei1fu05yar3l52f58tfhjey59l3q4hr60zx56fuf9",
+  "sei1969fmrvz3a078w6e9n32xcjl8g8qj48kwaht5e",
+  "sei1xvwsfesx7jgmh9u28qklq4e979tx57qy8p256k",
+  "sei1ccx5nx3u4w4x9shw0rt0vcgpxq4sdvsgys3njj",
+  "sei10qpkgtfzwwsz868h29jqwtrk73cqjshu9vsj44",
+  "sei1cqal9eswpkutpszguyym3hln4h2dpqzvcg4x6m",
+  "sei1jmnxmvjn7hxwgy5c0vj6e7urr6tkeuqxelyfky",
+  "sei10cpc7n2cwftwfxcnqcktkyvzzf7d4xw0cec0v3",
+  "sei1v7wdt79vamuxypwsn7eht3fklc5ncq95en4wrf",
+  "sei1pgtta28n737uwlf69a37wgegqv2cd9dkju53vm",
+  "sei1st7jprdw7arxn4n3hnrdelnhtqdjptr06xfupd",
+  "sei1dqzg5ape3kxr5p6s359dx2pnu2wss0nr8wf7yn",
+  "sei1pl87a0vmtqwg7wrvupk7m5ptfflaqn73asy9zq",
+  "sei1zj50mrceeehnrwlc3jl5mvzekhd6xx3t59l7t2"
+]
         },
         {
             "name":"Public"
